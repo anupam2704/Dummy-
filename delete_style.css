@@ -1,0 +1,60 @@
+            body{
+                background-color: #E0FFFF;
+                padding-top: 12%;
+                text-align: center;
+            }
+            h1{
+                margin: 0px auto;
+            }
+            form{
+                background-color: whitesmoke;
+                border: 1px solid black;
+                padding: 10px;
+                width: 35%;
+                margin: 15px auto;
+                font-family: Verdana;
+                font-size: 25px;
+                line-height: 40px;
+            }
+            #yes_btn{
+                background-color: red;
+                height: 30px;
+                width: 40px;
+                font-size: 15px;
+            }
+
+            #no_btn{
+                background-color:green;
+                height: 30px;
+                width: 40px;
+                font-size: 15px;
+                text-decoration: none;
+            }
+            a:hover {
+                color: black;
+                text-decoration: none;
+            }
+            form button a{
+                text-decoration: none;
+            }
+            form a{
+                border: 2px solid #A0A0A0;
+                display: inline-block;
+                background-color: green;
+                font-size: 15px;
+                height: 25px;
+                width: 35px;
+                text-decoration: none;
+                line-height:25px;
+                font-size: 15px;
+                color:black;
+            }
+            #del_msg{
+                line-height: 20px;
+                font-family: Sans-Serif;
+                font-size: 20px;
+                margin: 10px auto;
+                padding: 10px 5px 10px 5px;
+                color: red;
+            }
+
